@@ -103,6 +103,29 @@ section{
     font-size: x-large;
     padding-block: 0.5%;
 }
+
+.display-left ul li img{
+    border-radius: 8%;
+    float:right;
+    width: 160px;
+    height: auto;
+    margin-inline: 3%;
+}
+.display-left ul{
+    list-style:none;
+}
+.display-left ul li{
+    padding-inline: 7%;
+}
+.display-right img{
+    border-radius: 8%;
+    position:relative;
+    float: left;
+    width: 400px;
+    height: auto;
+    margin-left: 8%;
+    margin-top: 2%;
+}
 #insta485{
     background-color: #9dcdaa;
 }
